@@ -124,6 +124,8 @@ The design is therefore an educational PCB design submission, not a physically v
 
 ## 10. License
 
+Copyright © 2026 Md Tariqul Islam
+
 The hardware design files are intended to be released under CERN Open Hardware Licence Version 2 — Strongly Reciprocal (CERN-OHL-S-2.0).
 
 See the root `LICENSE` file for the complete licence text.
