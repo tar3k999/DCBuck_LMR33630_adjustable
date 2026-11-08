@@ -1,0 +1,13 @@
+
+# macOS metadata files
+.DS_Store
+**/.DS_Store
+__MACOSX/
+
+# KiCad personal settings
+*.kicad_prl
+
+# KiCad backups and temporary files
+*-backups/
+fp-info-cache
+*.bak

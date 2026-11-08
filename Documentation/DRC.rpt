@@ -1,0 +1,50 @@
+** Drc report for DCBuck_LMR33630.kicad_pcb **
+** Created on 2026-11-06T20:09:24 **
+** Report includes: Errors, Warnings **
+
+** Found 8 DRC violations **
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(125.0500 mm, 86.6500 mm): Rectangle on Edge.Cuts
+    @(125.2150 mm, 104.9400 mm): Segment of J1 on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(125.0500 mm, 86.6500 mm): Rectangle on Edge.Cuts
+    @(125.2150 mm, 105.6600 mm): Segment of J1 on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(125.0500 mm, 86.6500 mm): Rectangle on Edge.Cuts
+    @(147.7350 mm, 104.9900 mm): Segment of J4 on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(125.0500 mm, 86.6500 mm): Rectangle on Edge.Cuts
+    @(147.7350 mm, 105.7100 mm): Segment of J4 on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(125.0500 mm, 86.6500 mm): Rectangle on Edge.Cuts
+    @(147.7350 mm, 87.4900 mm): Segment of J3 on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(125.0500 mm, 86.6500 mm): Rectangle on Edge.Cuts
+    @(147.7350 mm, 88.2100 mm): Segment of J3 on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(125.0500 mm, 86.6500 mm): Rectangle on Edge.Cuts
+    @(125.2650 mm, 87.5900 mm): Segment of J2 on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(125.0500 mm, 86.6500 mm): Rectangle on Edge.Cuts
+    @(125.2650 mm, 88.3100 mm): Segment of J2 on F.Silkscreen
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** Ignored checks **
+    - Footprint has no courtyard defined
+    - Track endpoint not centered on via
+    - Tuning profile track geometries
+    - Footprint doesn't match symbol's footprint filters
+    - Footprint component type doesn't match footprint pads
+
+** End of Report **
