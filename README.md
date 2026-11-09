@@ -6,7 +6,7 @@ The design uses an adjustable feedback network to provide a nominal output adjus
 
 The project was developed in KiCad and focuses on practical power-management IC selection, feedback design, component selection, two-layer PCB layout, thermal-pad implementation, and electrical-rule verification.
 
-![3D PCB render](Documentation/DCBuck_LMR33630.0.png)
+![3D PCB render Front](Documentation/DCBuck_LMR33630.0.png)
 
 ## 1. Features
 
